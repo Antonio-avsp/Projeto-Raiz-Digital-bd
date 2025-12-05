@@ -1,7 +1,3 @@
-Vou adaptar a estrutura do README para o seu projeto **Raiz Digital**, seguindo o modelo que você forneceu:
-
----
-
 # 🌱 Raiz Digital
 
 Sistema de gerenciamento e rastreabilidade de distribuição de sementes agrícolas para agricultura familiar.

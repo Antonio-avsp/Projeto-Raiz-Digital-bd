@@ -1,6 +1,6 @@
 # 🌱 Raiz Digital
 
-Sistema de gerenciamento e rastreabilidade de distribuição de sementes agrícolas para agricultura familiar.
+Sistema de gerenciamento, cadastro e rastreabilidade de distribuição de sementes agrícolas para agricultura familiar.
 
 ## 📋 Sobre o Projeto
 

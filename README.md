@@ -11,7 +11,7 @@ O **Raiz Digital** é um sistema completo para controle de estoque, distribuiç�
 - [📋 Sobre o Projeto](#-sobre-o-projeto)
 - [📚 Importância da Modelagem do Banco de Dados](#-importância-da-modelagem-do-banco-de-dados)
 - [🧩 Normalização e Organização dos Dados](#-normalização-e-organização-dos-dados)
-- - [🎯 Funcionalidades Principais](#-funcionalidades-principais)
+- [🎯 Funcionalidades Principais](#-funcionalidades-principais)
 - [🗄️ Estrutura do Banco de Dados](#️-estrutura-do-banco-de-dados)
 - [📊 Modelo de Dados](#-modelo-de-dados)
 - [🚀 Instalação](#-instalação)
